@@ -13,7 +13,7 @@ jobs:
     steps:
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # Persist credentials so git push works
           persist-credentials: true
