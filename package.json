@@ -12,16 +12,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@octokit/rest": "^21.1.1",
+    "@octokit/rest": "^22.0.1",
     "discord.js": "^14.19.3",
-    "dotenv": "^16.5.0",
+    "dotenv": "^17.2.3",
     "html-entities": "^2.6.0",
-    "node-fetch": "^2.7.0",
-    "zod": "^3.24.4"
+    "node-fetch": "^3.3.2",
+    "zod": "^4.1.13"
   },
   "devDependencies": {
-    "@types/dotenv": "^6.1.1",
-    "@types/node": "^22.15.17",
+    "@types/dotenv": "^8.2.3",
+    "@types/node": "^24.10.1",
     "@types/ws": "^8.18.1",
     "@wdio/eslint": "^0.1.1",
     "eslint": "^9.26.0",
